@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Luz de Invierno",
+    "id_genero": 3,
+    "id_album": 1,
+    "duracion": 8,
+    "url": "https://www.practica.com",
+    "tipo": "VIRTUAL"
+  },
+  {
+    "id": 2,
+    "nombre": "Caminos Cruzados",
+    "id_genero": 2,
+    "id_album": 2,
+    "duracion": 5,
+    "url": "https://www.practica.com",
+    "tipo": "VIRTUAL"
+  },
+  {
+    "id": 3,
+    "nombre": "Silencio Eterno",
+    "id_genero": 1,
+    "id_album": 3,
+    "duracion": 4,
+    "url": "https://www.practica.com",
+    "tipo": "VIRTUAL"
+  },
+  {
+    "id": 4,
+    "nombre": "Reflejo del Alma",
+    "id_genero": 3,
+    "id_album": 2,
+    "duracion": 6,
+    "url": "https://www.practica.com",
+    "tipo": "FISICO"
+  },
+  {
+    "id": 5,
+    "nombre": "Sombras del Ayer",
+    "id_genero": 1,
+    "id_album": 2,
+    "duracion": 3,
+    "url": "https://www.practica.com",
+    "tipo": "FISICO"
+  },
+  {
+    "id": 6,
+    "nombre": "BABY",
+    "id_genero": 3,
+    "id_album": 3,
+    "duracion": 3,
+    "url": "www.baby.com",
+    "tipo": "FISICO"
+  }
+]

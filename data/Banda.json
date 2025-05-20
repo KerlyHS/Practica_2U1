@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mana",
+    "fecha": "Jan 22, 2025, 7:00:00 PM"
+  },
+  {
+    "id": 2,
+    "nombre": "La Oreja de Van Gogh",
+    "fecha": "May 22, 2025, 7:00:00 PM"
+  },
+  {
+    "id": 3,
+    "nombre": "Zoe",
+    "fecha": "Mar 30, 2023, 7:00:00 PM"
+  },
+  {
+    "id": 4,
+    "nombre": "Cafe tacvba",
+    "fecha": "Dec 15, 2022, 7:00:00 PM"
+  }
+]

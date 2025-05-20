@@ -1,0 +1,24 @@
+/* src\main\frontend\themes\default\styles.css */
+.my-custom-class {
+  background-color: #4caf50;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 10px 20px;
+  transition: background-color 0.3s ease;
+}
+
+.my-custom-class:hover {
+  background-color: #56e55d;
+}
+.titulo-llamativo {
+  font-size: 2.5rem;         /* Tamaño grande */
+  font-weight: 700;          /* Negrita */
+  color: #91a39e;            /* Color rosa fuerte */
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);  /* Sombra para destacar */
+  letter-spacing: 1.2px;     /* Espacio entre letras */
+  user-select: none;         /* Evita que se seleccione por accidente */
+}
+:host {
+  background-color: #165d2a; /* Color claro de fondo */
+}
